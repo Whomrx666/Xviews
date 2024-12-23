@@ -15,10 +15,10 @@ $ cd Xviews
 $ php Xviews.php
 ```
 ## Features
-- Supports sending traffic using proxy.
-- Compatible with Blogspot to increase the probability of success.
+- Supports sending traffic using proxy
+- Compatible with Blogspot to increase the probability of success
 - Color display in the terminal to monitor the execution status
-- Can handle multiple requests simultaneously with flexible configuration.
+- Can handle multiple requests simultaneously with flexible configuration
 
 ## Instructions
 - **first**: Install tools according to the instructions above
